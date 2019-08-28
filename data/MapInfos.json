@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"魔王の島","order":2,"parentId":0,"scrollX":451,"scrollY":1012.5},
+{"id":1,"expanded":true,"name":"魔王の島","order":2,"parentId":0,"scrollX":451,"scrollY":777.5},
 {"id":2,"expanded":false,"name":"魔王の城　内部","order":4,"parentId":0,"scrollX":451,"scrollY":323.5},
 {"id":3,"expanded":false,"name":"オープニング","order":1,"parentId":0,"scrollX":459,"scrollY":323.5},
-{"id":4,"expanded":false,"name":"魔王の島（アフター）","order":3,"parentId":1,"scrollX":451,"scrollY":323.5}
+{"id":4,"expanded":false,"name":"魔王の島（アフター）","order":3,"parentId":1,"scrollX":451,"scrollY":465.5}
 ]
